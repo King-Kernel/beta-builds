@@ -13,6 +13,8 @@ an added benefit of safety there
 Bluecross builds don't have this luxury, I'll get a build through testers before publishing here,
 so be very careful when downloading from the bluecross branch
 
+All changes are tracked via commits, please read the commit messages to learn more about the build
+
 Please report bugs to the telegram group located here:
 
 https://t.me/KingKernel
