@@ -10,7 +10,7 @@ if you're not careful
 Marlin builds always go through my device first before pushing to the beta repo, so there is
 an added benefit of safety there
 
-Bluecross builds don't have this luxury, I'll get a build through testers before publishing here,
+Wahoo and bluecross builds don't have this luxury, I'll get a build through testers before publishing here,
 so be very careful when downloading from the bluecross branch
 
 All changes are tracked via commits, please read the commit messages to learn more about the build
